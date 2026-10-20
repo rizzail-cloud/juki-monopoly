@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Monopoli Nusantara",
+  "short_name": "Monopoli",
+  "description": "Game Monopoli bertema kota-kota Indonesia, 2-8 pemain dengan bot",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0a0d1f",
+  "theme_color": "#0a0d1f",
+  "lang": "id",
+  "categories": ["games"],
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
