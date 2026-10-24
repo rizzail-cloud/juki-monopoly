@@ -1,5 +1,5 @@
 // Service worker Monopoli Nusantara. Naikkan angka CACHE setiap rilis agar pemain mendapat versi terbaru.
-const CACHE='monopoli-v3';
+const CACHE='monopoli-v4';
 const SHELL=['./','./index.html','./manifest.json','./icon-180.png','./icon-192.png','./icon-512.png','./icon-maskable-512.png'];
 
 self.addEventListener('install',e=>{
